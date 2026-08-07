@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Kiruthiga Parasuraman👋
 
-<!--
-**keerthi-03k/keerthi-03k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech Computer Science and Business Systems (CSBS)
 
-Here are some ideas to get you started:
+🏫 VSB Engineering College
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Karur, Tamil Nadu, India
+
+💻 Aspiring Full Stack Developer | MERN Stack Developer
+
+📊 Current CGPA: 8.38 / 10.0
+
+🚀 Aspiring Software Engineer
+
+## 💻 Technical Skills
+
+- HTML
+- CSS
+- Java
+- JavaScript
+- Bootstrap
+- React.js
+- Node.js
+- Express.js
+- MongoDB and SQL
+- GitHub
+- MS Office (Excel, Word, PowerPoint) 
+
+## 🚀 Projects
+
+### E-Learning System (Web Development)
+Developed a responsive online learning platform with features such as course listings, user authentication, and an admin dashboard. Implemented easy navigation, user-friendly and mobile-friendly interface to improve the overall learning experience.
+- Technology used: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB, Netlify (Deployment)
+- Netlify link : https://elegant-daffodil-b28708.netlify.app/
+  
+### Online Voting System (Web Development)
+Developed a responsive online voting platform that allows users to easily take part in voting through a simple and user-friendly interface with smooth navigation to support access across different devices
+- Technology used: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB, Render (Deployment)
+- Render link : https://votely-voting-app.onrender.com
+  
+## 🏆 Certifications
+
+• Cloud Computing and Java – NPTEL
+
+• Pragathi Cohorts 4 & 5 – Infosys Springboard
+
+• Java Foundation – Infosys Springboard
+
+• Full Stack Web Development (MERN Stack) – SDLC
+
+## 📫 Contact
+
+Email: your-email@gmail.com
+LinkedIn: www.linkedin.com/in/kiruthiga-parasuraman-998879322
