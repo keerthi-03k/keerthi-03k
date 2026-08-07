@@ -1,4 +1,5 @@
-<img width="1774" height="887" alt="ChatGPT Image Aug 7, 2026, 09_16_21 PM" src="https://github.com/user-attachments/assets/78ae67cb-e50a-4707-aed2-a4f8521507e5" />
+<img width="1747" height="900" alt="ChatGPT Image Aug 7, 2026, 09_39_04 PM" src="https://github.com/user-attachments/assets/5a02dea1-eeb9-4c22-9fa7-015fd40b89dc" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=keerthi-03K&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
