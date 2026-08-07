@@ -50,5 +50,6 @@ Developed a responsive online voting platform that allows users to easily take p
 
 ## 📫 Contact
 
-Email: your-email@gmail.com
-LinkedIn: www.linkedin.com/in/kiruthiga-parasuraman-998879322
+- Email: your-email@gmail.com
+
+- LinkedIn: www.linkedin.com/in/kiruthiga-parasuraman-998879322
