@@ -11,6 +11,7 @@
 </p>
 
 # Hi, I'm Kiruthiga Parasuraman👋
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00f5ff,50:b300ff,100:ff006e" width="100%"/>
 # 💫 About Me
 
 🎓 Final Year B.Tech Computer Science and Business Systems (CSBS)
@@ -26,6 +27,7 @@
 🚀 Aspiring Software Engineer
 
 ## 💻 Technical Skills
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00f5ff,50:b300ff,100:ff006e" width="100%"/>
 
 - HTML
 - CSS
@@ -40,6 +42,7 @@
 - MS Office (Excel, Word, PowerPoint) 
 
 ## 🚀 Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00f5ff,50:b300ff,100:ff006e" width="100%"/>
 
 ### E-Learning System (Web Development)
 Built a responsive e-learning platform featuring course listings, user authentication, and an admin dashboard with a mobile-friendly interface.
@@ -52,6 +55,7 @@ Built a responsive online voting platform with a user-friendly interface and a m
 - Render link : https://votely-voting-app.onrender.com
   
 ## 🏆 Certifications
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00f5ff,50:b300ff,100:ff006e" width="100%"/>
 
 • Cloud Computing and Java – NPTEL
 
@@ -62,6 +66,7 @@ Built a responsive online voting platform with a user-friendly interface and a m
 • Full Stack Web Development (MERN Stack) – SDLC
 
 ## 📫 Contact
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00f5ff,50:b300ff,100:ff006e" width="100%"/>
 
 - Email: keerthi141985@gmail.com
 
