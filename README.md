@@ -12,6 +12,7 @@
 
 # Hi, I'm Kiruthiga Parasuraman👋
 # 💫 About Me
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 
 🎓 Final Year B.Tech Computer Science and Business Systems (CSBS)
 
