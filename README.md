@@ -1,6 +1,9 @@
 <img width="1747" height="900" alt="ChatGPT Image Aug 7, 2026, 09_39_04 PM" src="https://github.com/user-attachments/assets/5a02dea1-eeb9-4c22-9fa7-015fd40b89dc" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=JAVA+DEVELOPER;BACKEND+DEVELOPER;SQL+DEVELOPER;PROMPT+ENGINEERING;FRONTEND+(HTML+AND+CSS);TEAM+LEADER;MANAGEMENT" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kiruthiga+Parasuraman;I'm+a+Software+Developer;I'm+a+Quick+Learner" />
+
 </div>
 
 <p align="center">
