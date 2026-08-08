@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=keerthi-03K&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f5ff,50:b300ff,100:ff006e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00f5ff,50:b300ff,100:ff006e"/>
 
 # Hi, I'm Kiruthiga Parasuraman👋
 # 💫 About Me
