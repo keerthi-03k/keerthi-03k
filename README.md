@@ -43,12 +43,12 @@
 
 ### E-Learning System (Web Development)
 Built a responsive e-learning platform featuring course listings, user authentication, and an admin dashboard with a mobile-friendly interface.
-- Technology used: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB, Netlify (Deployment), JWT (Authentication)
+- Technology used: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB, Netlify (Deployment).
 - Netlify link : https://elegant-daffodil-b28708.netlify.app/
   
 ### Online Voting System (Web Development)
-Built a responsive online voting platform with secure voting functionality and a mobile-friendly user experience.
-- Technology used: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB, Render (Deployment), JWT (Authentication)
+Built a responsive online voting platform with a user-friendly interface and a mobile-friendly user experience.
+- Technology used: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB, Render (Deployment).
 - Render link : https://votely-voting-app.onrender.com
   
 ## 🏆 Certifications
