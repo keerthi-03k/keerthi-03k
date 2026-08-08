@@ -1,6 +1,7 @@
 <img width="1747" height="900" alt="ChatGPT Image Aug 7, 2026, 09_39_04 PM" src="https://github.com/user-attachments/assets/5a02dea1-eeb9-4c22-9fa7-015fd40b89dc" />
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=JAVA+DEVELOPER;BACKEND+DEVELOPER;SQL+DEVELOPER;PROMPT+ENGINEERING;FRONTEND+(HTML+AND+CSS);TEAM+LEADER;MANAGEMENT" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=keerthi-03K&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
