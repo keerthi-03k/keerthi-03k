@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kiruthiga+Parasuraman;I'm+a+Software+Developer;I'm+a+Quick+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi%2C+👋 I'm+Kiruthiga+Parasuraman;I'm+a+Software+Developer;I'm+a+Quick+Learner" />
 
 </div>
 
