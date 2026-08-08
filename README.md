@@ -10,8 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=keerthi-03K&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-## Hi, I'm Kiruthiga Parasuraman👋
-##💫 About Me</h2>
+# Hi, I'm Kiruthiga Parasuraman👋
+#💫 About Me</h2>
 
 🎓 Final Year B.Tech Computer Science and Business Systems (CSBS)
 
