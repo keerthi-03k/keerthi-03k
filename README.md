@@ -71,6 +71,8 @@ Built a responsive online voting platform with a user-friendly interface and a m
 
 • Full Stack Web Development (MERN Stack) – SDLC
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f5ff,50:b300ff,100:ff006e"/>
+
 ## 📫 Contact
 
 - Email: keerthi141985@gmail.com
