@@ -11,9 +11,10 @@
 </p>
 
 # Hi, I'm Kiruthiga Parasuraman👋
-<h2>💫 About Me</h2>
-<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
-
+<div align="left">
+  <h2>💫 About Me</h2>
+  <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
+</div>
 🎓 Final Year B.Tech Computer Science and Business Systems (CSBS)
 
 🏫 VSB Engineering College
