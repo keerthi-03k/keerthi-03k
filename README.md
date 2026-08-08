@@ -27,7 +27,7 @@
 
 🚀 Aspiring Software Engineer
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f5ff,50:b300ff,100:ff006e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00f5ff,50:b300ff,100:ff006e"/>
 
 ## 💻 Technical Skills
 
@@ -43,7 +43,7 @@
 - GitHub
 - MS Office (Excel, Word, PowerPoint)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f5ff,50:b300ff,100:ff006e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00f5ff,50:b300ff,100:ff006e"/>
 
 ## 🚀 Projects
 
@@ -52,14 +52,14 @@ Built a responsive e-learning platform featuring course listings, user authentic
 - Technology used: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB, Netlify (Deployment).
 - Netlify link : https://elegant-daffodil-b28708.netlify.app/
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f5ff,50:b300ff,100:ff006e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00f5ff,50:b300ff,100:ff006e"/>
   
 ### Online Voting System (Web Development)
 Built a responsive online voting platform with a user-friendly interface and a mobile-friendly user experience.
 - Technology used: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB, Render (Deployment).
 - Render link : https://votely-voting-app.onrender.com
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f5ff,50:b300ff,100:ff006e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00f5ff,50:b300ff,100:ff006e"/>
 
 ## 🏆 Certifications
 
@@ -71,7 +71,7 @@ Built a responsive online voting platform with a user-friendly interface and a m
 
 • Full Stack Web Development (MERN Stack) – SDLC
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f5ff,50:b300ff,100:ff006e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00f5ff,50:b300ff,100:ff006e"/>
 
 ## 📫 Contact
 
