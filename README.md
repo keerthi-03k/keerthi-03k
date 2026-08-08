@@ -10,6 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=keerthi-03K&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
+
+
 # Hi, I'm Kiruthiga Parasuraman👋
 # 💫 About Me
 
