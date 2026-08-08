@@ -11,6 +11,7 @@
 </p>
 
 # Hi, I'm Kiruthiga Parasuraman👋
+# 💫 About Me
 
 🎓 Final Year B.Tech Computer Science and Business Systems (CSBS)
 
