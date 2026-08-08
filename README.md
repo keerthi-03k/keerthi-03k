@@ -42,13 +42,13 @@
 ## 🚀 Projects
 
 ### E-Learning System (Web Development)
-Developed a responsive online learning platform with features such as course listings, user authentication, and an admin dashboard. Implemented easy navigation, user-friendly and mobile-friendly interface to improve the overall learning experience.
-- Technology used: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB, Netlify (Deployment)
+Built a responsive e-learning platform featuring course listings, user authentication, and an admin dashboard with a mobile-friendly interface.
+- Technology used: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB, Netlify (Deployment), JWT (Authentication)
 - Netlify link : https://elegant-daffodil-b28708.netlify.app/
   
 ### Online Voting System (Web Development)
-Developed a responsive online voting platform that allows users to easily take part in voting through a simple and user-friendly interface with smooth navigation to support access across different devices
-- Technology used: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB, Render (Deployment)
+Built a responsive online voting platform with secure voting functionality and a mobile-friendly user experience.
+- Technology used: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB, Render (Deployment), JWT (Authentication)
 - Render link : https://votely-voting-app.onrender.com
   
 ## 🏆 Certifications
