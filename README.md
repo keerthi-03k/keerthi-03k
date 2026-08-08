@@ -20,7 +20,7 @@
 
 💻 Aspiring Full Stack Developer | MERN Stack Developer
 
-📊 Current CGPA: 8.38 / 10.0
+📊 Current CGPA: 8.38 / 10
 
 🚀 Aspiring Software Engineer
 
